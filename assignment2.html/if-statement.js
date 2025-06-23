@@ -113,8 +113,6 @@ function ticketCalculator(){
 
     return "your ticket price is " + price;
 }
-document.write(ticketCalculator());
-
 
 
 
